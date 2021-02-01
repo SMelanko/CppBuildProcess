@@ -19751,6 +19751,9 @@ namespace std __attribute__ ((__visibility__ ("default")))
 # 7 "src/Greeting.h"
 namespace app {
 
+
+
+
 class Greeting
 {
 public:

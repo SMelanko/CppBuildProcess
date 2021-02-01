@@ -6,6 +6,9 @@
 
 namespace app {
 
+/**
+ * @brief A simple class for test purposes.
+ */
 class Greeting
 {
 public:
