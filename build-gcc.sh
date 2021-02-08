@@ -10,7 +10,7 @@ echo "2. Compilation"
 g++ -S build/pre/Greeting.ii -o build/asm/Greeting.s
 g++ -S build/pre/main.ii -o build/asm/main.s
 
-echo "3. Assemble"
+echo "3. Assembly"
 
 as build/asm/Greeting.s -o build/obj/Greeting.o
 as build/asm/main.s -o build/obj/main.o
